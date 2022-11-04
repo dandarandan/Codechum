@@ -6,7 +6,7 @@ Instructions:
 so recall on how to limit the outputted decimals in your code.
 3. The outputted statement must be the same as the one in the sample output shown below.
 
-Output:
+Expected Output:
 Pi·=·3.1
 */
 
