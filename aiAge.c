@@ -4,6 +4,7 @@ Instruction:
 2. This time around, try writing the whole code on your own, including the basic C program structure to practice.
 
 Expected Output:
+
 A single line containing an integer.
 65
 */
