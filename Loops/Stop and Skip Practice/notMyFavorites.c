@@ -31,16 +31,14 @@ Multiple lines containing an integer.
 */
 
 #include<stdio.h>
+#include<math.h>
 int main (void) {
 	
-	int cube;
-
 	for (int count = 1; count <= 1000; count++) {
 		if (count % 5 == 0 || count % 3 == 0) {
 			continue;
 		} else {
-			cube = count * count * count;
-			printf("%d\n", cube);
+			printf("%d\n", (int)pow(count, 3));
 		}
 	}
 
